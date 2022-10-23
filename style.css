@@ -76,7 +76,7 @@ h1,h2,h3,h4,h5,h6{
     grid-template-columns: auto auto 1fr;
     align-items: center;
     gap: 2%;
-    border: 2px solid #d3d3;
+    border-bottom: 2px solid #d3d3;
 }
 
 .header-menu-title {
